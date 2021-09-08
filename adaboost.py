@@ -1,11 +1,4 @@
-"""
-===================================================
-     Introduction to Machine Learning (67577)
-===================================================
 
-Skeleton for the AdaBoost classifier.
-
-"""
 import numpy as np
 
 
